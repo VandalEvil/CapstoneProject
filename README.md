@@ -1,6 +1,8 @@
-# CapstoneProject
+# Buddy Marcey Capstone Project
 
-###### "Let's get this bread!"
+### An Introduction
+
+
 
 This page contains my work on my Capstone Project for CS499
 
