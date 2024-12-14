@@ -28,6 +28,8 @@ The narratives that accompany the artifact enhancements will discuss how the enh
 
 The artifacts will be presented in their original submission form with a brief description of what it is and what it is trying to accomplish. Then I will discuss how the artifact was enhanced and how that enhancement ties into the core components and course objectives.
 
+<button onclick="window.location.href='https://youtu.be/WTK707jGXt0?si=WSmDPDXzF01QVFbW';">Code Review</button>
+
 
 ## Artifact 1: CSV Parser with Binary Search Tree
 
