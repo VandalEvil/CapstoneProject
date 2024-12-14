@@ -41,7 +41,7 @@ Here is a link to the [original project repository](https://github.com/VandalEvi
 
 
 
-## Artifcat 2: Database with Plotly Dash Dashboard
+## Artifact 2: Database with Plotly Dash Dashboard
 
 ![Image of Dashboard]
 
