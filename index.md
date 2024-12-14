@@ -27,7 +27,13 @@ The narratives that accompany the artifact enhancements will discuss how the enh
 The artifacts will be presented in their original submission form with a brief description of what it is and what it is trying to accomplish. Then I will discuss how the artifact was enhanced and how that enhancement ties into the core components and course objectives.
 
 
-## Original Projects and Intentions
+## Artifact 1: CSV Parser with Binary Search Tree
+
+Here is the repository for the [original project]
+
+<div class="popup" onclick="myFunction()">Click me!
+  <span class="popuptext" id="myPopup">Popup text...</span>
+</div>
 
 ## Enhancements
 
