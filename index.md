@@ -33,7 +33,7 @@ The artifacts will be presented in their original submission form with a brief d
 
 ![Image of Parser](CLI Tool CSV Parser.png)
 
-Here is a [description](https://github.com/VandalEvil/CapstoneProject/blob/main/CSVParserDescription.md) of the original project.
+Here is a link to the [original project repository](https://github.com/VandalEvil/CapstoneProject/blob/main/DataStructuresAndAlgorithms-main/DataStructuresAndAlgorithms-main/ProjectTwo.cpp) and here is a [description](https://github.com/VandalEvil/CapstoneProject/blob/main/CSVParserDescription.md).
 
 
 
