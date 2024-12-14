@@ -29,11 +29,9 @@ The artifacts will be presented in their original submission form with a brief d
 
 ## Artifact 1: CSV Parser with Binary Search Tree
 
-Here is the repository for the [original project]
+Here is the [description] for the original project (https://github.com/VandalEvil/CapstoneProject/blob/main/CSVParserDescription.md)
 
-<div class="popup" onclick="myFunction()">Click me!
-  <span class="popuptext" id="myPopup">Popup text...</span>
-</div>
+
 
 ## Enhancements
 
