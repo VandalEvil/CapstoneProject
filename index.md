@@ -28,6 +28,8 @@ The narratives that accompany the artifact enhancements will discuss how the enh
 
 The artifacts will be presented in their original submission form with a brief description of what it is and what it is trying to accomplish. Then I will discuss how the artifact was enhanced and how that enhancement ties into the core components and course objectives.
 
+Click this button to see my video code review and enhancement plan on YouTube:
+
 <button onclick="window.location.href='https://youtu.be/WTK707jGXt0?si=WSmDPDXzF01QVFbW';">Code Review</button>
 
 
@@ -39,5 +41,9 @@ Here is a link to the [original project repository](https://github.com/VandalEvi
 
 
 
-## Enhancements
+## Artifcat 2: Database with Plotly Dash Dashboard
+
+![Image of Dashboard]
+
+Here is a link to the [original project repository](https://github.com/VandalEvil/CapstoneProject/blob/main/ClientServerDatabaseOriginal-main/cs340ClientServer-main/ProjectTwoDashboard.ipynb) and here is a [description](https://github.com/VandalEvil/CapstoneProject/blob/main/DataDashboardDescription.md).
 
