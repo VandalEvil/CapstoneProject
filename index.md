@@ -1,4 +1,6 @@
-# Buddy Marcey Computer Science Capstone
+# Buddy Marcey 
+
+# Computer Science Capstone
 
 ### An Introduction and Self-Assessment
 
@@ -29,7 +31,7 @@ The artifacts will be presented in their original submission form with a brief d
 
 ## Artifact 1: CSV Parser with Binary Search Tree
 
-Here is the [description] for the original project (https://github.com/VandalEvil/CapstoneProject/blob/main/CSVParserDescription.md)
+Here is the [description](https://github.com/VandalEvil/CapstoneProject/blob/main/CSVParserDescription.md) for the original project.
 
 
 
