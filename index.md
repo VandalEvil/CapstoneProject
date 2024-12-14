@@ -9,7 +9,9 @@
 	The goal of this project is to showcase my computer science skills by enhancing some of the work done in previous courses. These projects focus on the following core components:
 
 > Software Design and Engineering
+
 > Algorithms and Data Structures
+
 > Databases
 
 The enhancement of the artifacts I have chosen will show proficiency in computer science by fulfilling the following course objectives:
