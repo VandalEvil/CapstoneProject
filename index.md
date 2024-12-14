@@ -31,7 +31,9 @@ The artifacts will be presented in their original submission form with a brief d
 
 ## Artifact 1: CSV Parser with Binary Search Tree
 
-Here is the [description](https://github.com/VandalEvil/CapstoneProject/blob/main/CSVParserDescription.md) for the original project.
+
+
+Here is a [description](https://github.com/VandalEvil/CapstoneProject/blob/main/CSVParserDescription.md) of the original project.
 
 
 
