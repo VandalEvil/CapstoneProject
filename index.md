@@ -51,5 +51,7 @@ Here is a link to the [enhanced project repository](https://github.com/VandalEvi
 
 ![Image of Dashboard](EnhancedDashboard.png)
 
+**Brief Description** The goal of this project was to make a dashboard for end users that would take data from a database and display it in a user-friendly fashion.
+
 Here is a link to the [original project repository](https://github.com/VandalEvil/CapstoneProject/blob/main/ClientServerDatabaseOriginal-main/cs340ClientServer-main/ProjectTwoDashboard.ipynb) and here is a [description](https://github.com/VandalEvil/CapstoneProject/blob/main/DataDashboardDescription.md).
 
