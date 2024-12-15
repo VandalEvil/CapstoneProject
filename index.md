@@ -49,7 +49,7 @@ Here is a link to the [enhanced project repository](https://github.com/VandalEvi
 
 ## Artifact 2: Database with Plotly Dash Dashboard
 
-![Image of Dashboard]
+![Image of Dashboard](EnhancedDashboard.png)
 
 Here is a link to the [original project repository](https://github.com/VandalEvil/CapstoneProject/blob/main/ClientServerDatabaseOriginal-main/cs340ClientServer-main/ProjectTwoDashboard.ipynb) and here is a [description](https://github.com/VandalEvil/CapstoneProject/blob/main/DataDashboardDescription.md).
 
