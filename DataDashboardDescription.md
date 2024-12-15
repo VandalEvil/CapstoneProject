@@ -1,1 +1,1 @@
-This is the description for the Data Dashboard Original project.
+The original instructions for this project were to setup a MongoDB database, develop Python middleware to interact with the database, and build out a Plotly Dash dashboard in Jupyter Notebook for the end user. The provided data set was a list of shelter animals in the Austin, Texas area, a data set with about ten thousand entries. The database was accessed through the middleware and specific types were called from buttons on the dashboard.
