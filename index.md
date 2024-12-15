@@ -63,5 +63,5 @@ Here is the link to the [enhanced project repository](https://github.com/VandalE
 
 ## Summary
 
-The enhancements to the artifacts and the accompanying narratives demonstrate the abilities I have acquired in the Computer Science program. A justification of the course outcomes can be found [here]().
+The enhancements to the artifacts and the accompanying narratives demonstrate the abilities I have acquired in the Computer Science program. A justification of the course outcomes can be found [here](https://github.com/VandalEvil/CapstoneProject/blob/main/CourseOutcomesAndJustification.pdf).
 
