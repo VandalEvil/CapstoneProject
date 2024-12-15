@@ -61,3 +61,7 @@ Here is a link to the [original project repository](https://github.com/VandalEvi
 
 Here is the link to the [enhanced project repository](https://github.com/VandalEvil/CapstoneProject/blob/main/DatabaseDashboardEnhanced/refactoredDashboard.py).
 
+## Summary
+
+The enhancements to the artifacts and the accompanying narratives demonstrate the abilities I have acquired in the Computer Science program. A justification of the course outcomes can be found [here]().
+
